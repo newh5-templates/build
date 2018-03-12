@@ -1,0 +1,13 @@
+{
+  "name": "newh5-base-template",
+  "version": "1.0.0",
+  "description": "Newh5 Base Template",
+  "scripts": {
+    "start": "newh5 start",
+    "deploy": "newh5 deploy",
+    "build": "newh5 build"
+  },
+  "dependencies": {
+    "preloader.js": "^1.0.0"
+  }
+}
